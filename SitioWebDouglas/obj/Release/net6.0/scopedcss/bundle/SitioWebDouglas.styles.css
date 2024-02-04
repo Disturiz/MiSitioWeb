@@ -1,0 +1,49 @@
+/* _content/SitioWebDouglas/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-0qco1zyrcp] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-0qco1zyrcp] {
+  color: #0077cc;
+}
+
+.btn-primary[b-0qco1zyrcp] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-0qco1zyrcp], .nav-pills .show > .nav-link[b-0qco1zyrcp] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-0qco1zyrcp] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-0qco1zyrcp] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-0qco1zyrcp] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-0qco1zyrcp] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-0qco1zyrcp] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
